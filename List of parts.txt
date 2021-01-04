@@ -1,0 +1,7 @@
+1. Arduino Nano
+2. L9110 shield
+3. 7.5v Source: https://www.tehnoelectric.ro/produse/75_100_sursa_de_alim_in_comutatie_100_240v_7_5v_0_1_1a
+4. Switch https://www.tehnoelectric.ro/produse/70_121_intrerupator_on_off_6a_250v_26x21x15_mm
+5. Water Pump: https://www.tehnoelectric.ro/produse/04_222_motor_6_12v_c_c_cu_pompa_de_apa
+6. 6 bolts and screws (M3x10)
+7. Wires
